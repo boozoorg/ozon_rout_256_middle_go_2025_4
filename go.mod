@@ -1,4 +1,4 @@
-module ozon_rout_256_middle_go_2025_4
+module ozon_route_256_middle_go_2025_4
 
 go 1.21.3
 
